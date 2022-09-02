@@ -18,13 +18,7 @@ Partial list of projects I'm involved in
 
 - Core developer - [Xarray](https://github.com/pydata/xarray)
 - Steering council member - [Zarr](https://github.com/zarr-developers)
-- Creator of:
-  - [xgcm](https://github.com/xgcm/xgcm/)
-  - [xrft](https://github.com/xgcm/xrft/)
-  - [xhistogram](https://github.com/xgcm/xhistogram)
-  - [xmitgcm](https://github.com/MITgcm/xmitgcm)
-  - [rechunker](https://github.com/pangeo-data/rechunker/)
-  - [Pangeo Forge](https://github.com/pangeo-forge/) 
+- Creator of: [xgcm](https://github.com/xgcm/xgcm/), [xrft](https://github.com/xgcm/xrft/),[xhistogram](https://github.com/xgcm/xhistogram), [xmitgcm](https://github.com/MITgcm/xmitgcm), [rechunker](https://github.com/pangeo-data/rechunker/), [Pangeo Forge](https://github.com/pangeo-forge/) 
 
 ### Short Biography
 
