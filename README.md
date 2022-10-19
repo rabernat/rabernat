@@ -1,7 +1,7 @@
 # Ryan Abernathey
 
 
-### Scientist and Software Developer
+### Startup Founder, Scientist and Software Developer
 
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
@@ -10,7 +10,9 @@
 [![Twitter](https://img.shields.io/twitter/follow/rabernat?logo=twitter&style=flat-square)](https://twitter.com/rabernat)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ryan-abernathey-32a70652)
 
-I am currently employed as an associate professor in the [Columbia University](https://www.columbia.edu/) [Department of Earth and Environmental Science](https://eesc.columbia.edu/) and [Lamont Doherty Earth Observatory](https://ldeo.columbia.edu/). My research group website can be found at [ocean-transport.github.io](https://ocean-transport.github.io/). There you can read more about my research. I am also a founder and leader of the [Pangeo Project](https://pangeo.io/).
+- CEO and co-founder of [Earthmover](https://earthmover.io/). 
+- Associate professor in the [Columbia University](https://www.columbia.edu/) [Department of Earth and Environmental Science](https://eesc.columbia.edu/) and [Lamont Doherty Earth Observatory](https://ldeo.columbia.edu/). My research group website can be found at [ocean-transport.github.io](https://ocean-transport.github.io/). There you can read more about my research.
+- Co-founder and community leader of the [Pangeo Project](https://pangeo.io/).
 
 ### Software Development
 
