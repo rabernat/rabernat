@@ -12,7 +12,7 @@
 
 - CEO and co-founder of [Earthmover](https://earthmover.io/). 
 - Co-founder and community leader of the [Pangeo Project](https://pangeo.io/).
-- Ex professor in the [Columbia University](https://www.columbia.edu/) [Department of Earth and Environmental Science](https://eesc.columbia.edu/) and [Lamont Doherty Earth Observatory](https://ldeo.columbia.edu/). My research group website can be found at [ocean-transport.github.io](https://ocean-transport.github.io/). There you can read more about my research.
+- Ex professor in the [Columbia University](https://www.columbia.edu/) [Department of Earth and Environmental Science](https://eesc.columbia.edu/) and [Lamont Doherty Earth Observatory](https://ldeo.columbia.edu/). My old research group website can be found at [ocean-transport.github.io](https://ocean-transport.github.io/ocean-transport-old/). There you can read more about my research.
 
 ### Software Development
 
@@ -26,5 +26,5 @@ Partial list of projects I'm involved in
 
 Ryan P. Abernathey is a scientist, startup founder, and open-source software developer. He is the CEO and co-founder of Earthmover PBC, an early stage startup on a mission to empower people to use scientific data to solve humanity's greatest challenges. Until 2024, he was and Associate Professor of Earth And Environmental Science at Columbia University and Lamont Doherty Earth Observatory. As a physical oceanographer, he has studied the large-scale ocean circulation and its relationship with Earth's climate using climate models and satellite data. He received his Ph.D. from MIT in 2012 and did a postdoc at Scripps Institution of Oceanography. He has received an Alfred P. Sloan Research Fellowship in Ocean Sciences, an NSF CAREER award, The Oceanography Society Early Career Award, and the AGU Falkenberg Award. He was a member of the NASA Surface Water and Ocean Topography (SWOT) science team and Director of Data and Computing for a new NSF Science and Technology Center called Learning the Earth with Artificial Intelligence and Physics (LEAP). Dr. Abernathey is an active participant in and advocate for open source software, open data, and reproducible science. In 2016 he helped found the Pangeo project, an open science community focused on big scientific data analytics.
 
-**Headshot:** <https://ocean-transport.github.io/_images/ryan.jpg>
+**Headshot:** <https://ocean-transport.github.io/ocean-transport-old/_images/ryan.jpg>
 
